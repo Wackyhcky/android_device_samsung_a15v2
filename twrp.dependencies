@@ -1,4 +1,8 @@
 [
   {
+    "remote": "github",
+    "repository": "rama982/kernel_common",
+    "target_path": "kernel/samsung/a15",
+    "branch": "custom-5.10-linuxstable"
   }
 ]
